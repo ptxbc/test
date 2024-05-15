@@ -1,7 +1,7 @@
 #!/bin/sh
  
 # 下载Go二进制文件
-GO_VERSION="1.16.5"
+GO_VERSION="1.22.3"
 GO_OS="darwin"
 GO_ARCH="arm64"
 curl -O "https://dl.google.com/go/go$GO_VERSION.$GO_OS-$GO_ARCH.tar.gz"
