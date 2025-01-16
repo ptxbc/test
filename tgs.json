@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "name": "搜TG",
+      "type": 3,
+      "api": "csp_xpanpan",
+      "ext": "https://cdn.jsdelivr.net/gh/ptxbc/test@master/tgs.js"
+    }
+  ]
+}
