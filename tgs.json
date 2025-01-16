@@ -3,7 +3,7 @@
     {
       "name": "搜TG",
       "type": 3,
-      "api": "csp_xpanpan",
+      "api": "csp_tgs",
       "ext": "https://cdn.jsdelivr.net/gh/ptxbc/test@master/tgs.js"
     }
   ]
